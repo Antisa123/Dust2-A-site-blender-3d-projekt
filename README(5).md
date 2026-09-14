@@ -22,8 +22,6 @@ Animacija kamere
 
 ## Sadržaj repozitorija
 
-Dust6_A_Site.blend — glavni Blender file
-
 README.md
 
 Blender file:
